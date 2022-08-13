@@ -1,0 +1,6 @@
+version: '1.0'
+output_format: json
+log_level: INFO
+stage: source
+source:
+  policy_id: AUpnTEDbT_WTnBTnbsUOmg
